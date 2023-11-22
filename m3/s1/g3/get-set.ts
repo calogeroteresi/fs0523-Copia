@@ -17,3 +17,4 @@ test.setPrice = 20;
 
 console.log( test.getPrice );
 //test.getPrice = '5' non posso farlo
+
